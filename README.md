@@ -17,7 +17,6 @@ Electric Vehicle 2016
     - This is a pretty simple program that takes in a delaytime and waits that long before cutting off power to the motor
   
 Robot Arm 2016
- - Versions
   - Stepper motor testing
     - This was to test out the Adafruit Motor Shield on a small NEMA 17 stepper
   - Small stepper v2
@@ -41,23 +40,22 @@ Electric Vehicle 2017
 - This was a similar program to that of 2016 and was not anything new from a learning standpoint
   
 Robot Arm 2017
-- Versions
-  - Sparkfun EasyDriver test
-    - This was to learn how to control a stepper motor using the EasyDriver
-  - Base test
-    - This was to test the Adafruit Motor Shield with a stepper
-  - Vertical and Collector
-    - This was to test a synced pair of motors: one stepper and one continuous rotation servos in order to pull up part of the robot arm
-  - StepperCode
-    - This adds another joint of motion to the arm 
-  - Overall code v1
-    - This set of code controls the main motors of the arm
-  - Overall code v2
-  - Overall code v3
-  - Overall code v4
-  - Overall code v5
-  - Overall code v6
-  - 2nd Arduino v1
-    - This set of code controls the secondary motors of the arm
-  - 2nd Arduino v2
-  - 2nd Arduino v3
+ - Sparkfun EasyDriver test
+   - This was to learn how to control a stepper motor using the EasyDriver
+ - Base test
+   - This was to test the Adafruit Motor Shield with a stepper
+ - Vertical and Collector
+   - This was to test a synced pair of motors: one stepper and one continuous rotation servos in order to pull up part of the robot arm
+ - StepperCode
+   - This adds another joint of motion to the arm 
+ - Overall code v1
+   - This set of code controls the main motors of the arm
+ - Overall code v2
+ - Overall code v3
+ - Overall code v4
+ - Overall code v5
+ - Overall code v6
+ - 2nd Arduino v1
+   - This set of code controls the secondary motors of the arm
+ - 2nd Arduino v2
+ - 2nd Arduino v3
